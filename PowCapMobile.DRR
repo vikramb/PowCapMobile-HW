@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PowCapMobile.PcbDoc   6/8/2012  11:14:06 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PowCapMobile.TXT
+EIA File   : PowCapMobile.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          263              62.40 Inch (1584.83 mm)
+T2        28mil (0.7112mm)         Round          2                0.17 Inch (4.19 mm)
+T3        30mil (0.762mm)          Round          6                2.22 Inch (56.41 mm)
+T4        32mil (0.8128mm)         Round          3                3.87 Inch (98.40 mm)
+T5        35mil (0.889mm)          Round          6                2.02 Inch (51.41 mm)
+T6        36mil (0.9144mm)         Round          18               8.66 Inch (219.85 mm)
+T7        51.18mil (1.29997mm)     Round          6                3.01 Inch (76.44 mm)
+T8        59.06mil (1.50012mm)     Round          16               15.25 Inch (387.44 mm)
+T9        80mil (2.032mm)          Round          12               6.21 Inch (157.76 mm)
+T10       102.36mil (2.59994mm)    Round          3                1.88 Inch (47.87 mm)
+T11       120mil (3.048mm)         Round          1                0.00 Inch (0.00 mm)
+T12       140.16mil (3.56006mm)    Round          4                6.13 Inch (155.70 mm)
+T13       150mil (3.81mm)          Round          14               9.00 Inch (228.60 mm)
+T14       151mil (3.8354mm)        Round          1                0.00 Inch (0.00 mm)
+T15       155mil (3.937mm)         Round          10               9.68 Inch (245.83 mm)
+T16       210mil (5.334mm)         Round          5                7.46 Inch (189.59 mm)
+T17       200mil (5.08mm)          Round          2         NPTH   0.50 Inch (12.70 mm)
+---------------------------------------------------------------------------
+Totals                                            372              138.47 Inch (3517.02 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

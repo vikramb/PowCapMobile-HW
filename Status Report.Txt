@@ -1,0 +1,36 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [PowCapMobile.PcbDoc]
+   Generated File[Pick Place for PowCapMobile.txt]
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PowCapMobile.PcbDoc]
+   Generated File[PowCapMobile.GTL]
+   Generated File[PowCapMobile.G1]
+   Generated File[PowCapMobile.G2]
+   Generated File[PowCapMobile.GBL]
+   Generated File[PowCapMobile.GTO]
+   Generated File[PowCapMobile.GBO]
+   Generated File[PowCapMobile.GM10]
+   Generated File[PowCapMobile.RUL]
+   Generated File[PowCapMobile.EXTREP]
+   Generated File[PowCapMobile.REP]
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PowCapMobile.PcbDoc]
+   Generated File[PowCapMobile.TXT]
+   Generated File[PowCapMobile.DRL]
+   Generated File[PowCapMobile.LDP]
+   Generated File[PowCapMobile.DRR]
+
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PowCapMobile.PcbDoc]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 11:14:08 AM On 6/8/2012

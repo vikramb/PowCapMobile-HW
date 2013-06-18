@@ -1,0 +1,353 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+TP_CS3     TEST_PT_SMD           4405mil       4360mil       4405mil       4360mil       4405mil       4360mil  B        180.00 5016           
+TP_CS2     TEST_PT_SMD           4405mil       4460mil       4405mil       4460mil       4405mil       4460mil  B        180.00 5016           
+U22        BridgeRectifier-DFS       2925mil       5630mil       2820mil       5480mil       3030mil       5780mil  T         90.00 DF206ST-G      
+TP_F7      TEST_PT_SMD           5900mil       4980mil       5900mil       4980mil       5900mil       4980mil  B         90.00 5016           
+TP_F6      TEST_PT_SMD           5780mil       5240mil       5780mil       5240mil       5780mil       5240mil  B        270.00 5016           
+XFR1       TRANSFORMER-DUAL-PRIMARY       1360mil   4654.921mil       1360mil       4650mil    672.402mil   3810.039mil  T         90.00 PL30-12-130B   
+TVS2       D0-214AC          3283.189mil   3074.685mil       3280mil       3080mil   3283.189mil   3159.685mil  T         90.00 SMAJ12CA-TP    
+TVS1       D0-214AC          3336.811mil   2465.315mil       3340mil       2460mil   3336.811mil   2380.315mil  T        270.00 SMAJ12CA-TP    
+CON2       6-pin_2mm          2939.37mil    5038.74mil       2900mil       4960mil       2900mil       4960mil  B         90.00 M06x2 Header   
+TP16       TEST_PT_SMD           3680mil       2360mil       3680mil       2360mil       3680mil       2360mil  T         90.00 5016           
+U14        TSSOP-14Lead-AnalogDevices-ADG636       5570mil       1295mil       5570mil       1295mil   5683.189mil   1371.772mil  B        180.00 ADG636YRUZ     
+X1         XTAL_16MHz_SMD        5220mil       5000mil       5220mil       5000mil   5188.504mil   4956.693mil  B         90.00 16M Hz ±30ppm  
+C42        SM/C_0603         5705.748mil   2711.162mil   5705.748mil   2683.162mil   5705.748mil   2683.162mil  T         90.00 1000p Farads 1%
+C43        SM/C_0603         5797.748mil   2711.162mil   5797.748mil   2683.162mil   5797.748mil   2683.162mil  T         90.00 1000p Farads 1%
+R54        SM/R_0603         5682.315mil   2828.162mil   5710.315mil   2828.162mil   5710.315mil   2828.162mil  T        180.00 2.7M Ohm 1%    
+R55        SM/R_0603         5817.748mil   2823.162mil   5845.748mil   2823.162mil   5845.748mil   2823.162mil  T        180.00 2.7M Ohm 1%    
+R58        SM/R_0603         5706.248mil   2575.162mil   5706.248mil   2603.162mil   5706.248mil   2603.162mil  T        270.00 2.7M Ohm 1%    
+C108       SM/C_0603         5852.067mil   1741.823mil   5824.067mil   1741.823mil   5824.067mil   1741.823mil  T        360.00 1000p Farads 1%
+C107       SM/C_0603         5712.067mil   1741.823mil   5684.067mil   1741.823mil   5684.067mil   1741.823mil  T        360.00 1000p Farads 1%
+R87        SM/R_0603         5830.067mil       1852mil   5830.067mil       1880mil   5830.067mil       1880mil  T        270.00 2.7M Ohm 1%    
+U23        MSOP-16Lead-LTC6254   5404.567mil   1956.823mil   5404.567mil   1956.823mil   5322.874mil   2025.721mil  T          0.00 LTC6254CMS#PBF-ND
+C27        SM/C_0603             3923mil       1510mil       3895mil       1510mil       3895mil       1510mil  B        360.00 1u Farads 10%  
+C28        SM/C_0603             3400mil       1593mil       3400mil       1565mil       3400mil       1565mil  B         90.00 1u Farads 10%  
+C29        SM/C_0603             5243mil       3970mil       5215mil       3970mil       5215mil       3970mil  T        360.00 1u Farads 10%  
+C30        SM/C_0603             5375mil       4082mil       5375mil       4110mil       5375mil       4110mil  T        270.00 1u Farads 10%  
+C31        SM/C_0603         5030.748mil   2716.162mil   5030.748mil   2688.162mil   5030.748mil   2688.162mil  T         90.00 1000p Farads 1%
+C32        SM/C_0603         5130.748mil   2716.162mil   5130.748mil   2688.162mil   5130.748mil   2688.162mil  T         90.00 1000p Farads 1%
+C33        SM/C_0603         5162.795mil       4791mil   5190.795mil       4791mil   5190.795mil       4791mil  B        180.00 1u Farads 10%  
+C34        SM/C_0603         5162.795mil       4707mil   5190.795mil       4707mil   5190.795mil       4707mil  B        180.00 1u Farads 10%  
+C35        SM/C_0603         5192.795mil       5782mil   5220.795mil       5782mil   5220.795mil       5782mil  B        180.00 1u Farads 10%  
+C36        SM/C_0603         5192.795mil     5691.5mil   5220.795mil     5691.5mil   5220.795mil     5691.5mil  B        180.00 1u Farads 10%  
+C37        SM/C_0603         5007.748mil   2453.162mil   5035.748mil   2453.162mil   5035.748mil   2453.162mil  T        180.00 1000p Farads 1%
+C38        SM/C_0603         5147.748mil   2453.162mil   5175.748mil   2453.162mil   5175.748mil   2453.162mil  T        180.00 1000p Farads 1%
+C39        SM/C_0603             5020mil       4772mil       5020mil       4800mil       5020mil       4800mil  B        270.00 22p Farads 10% 
+C40        SM/C_0603             4500mil       5823mil       4500mil       5795mil       4500mil       5795mil  B         90.00 1u Farads 10%  
+C41        SM/C_0603             4900mil       4772mil       4900mil       4800mil       4900mil       4800mil  B        270.00 22p Farads 10% 
+C8         SM/C_0603         5729.567mil   1999.823mil   5729.567mil   1971.823mil   5729.567mil   1971.823mil  T         90.00 1000p Farads 1%
+C19        SM/C_0603         5829.567mil   1999.823mil   5829.567mil   1971.823mil   5829.567mil   1971.823mil  T         90.00 1000p Farads 1%
+C44        SM/C_0603             5340mil       2452mil       5340mil       2480mil       5340mil       2480mil  T        270.00 1u Farads 10%  
+C45        SM/C_0603             5520mil       2452mil       5520mil       2480mil       5520mil       2480mil  T        270.00 1u Farads 10%  
+C46        SM/C_0603         5677.815mil   2463.162mil   5649.815mil   2463.162mil   5649.815mil   2463.162mil  T        360.00 1000p Farads 1%
+C47        SM/C_0603         5817.815mil   2463.162mil   5789.815mil   2463.162mil   5789.815mil   2463.162mil  T        360.00 1000p Farads 1%
+C48        SM/C_0603             5480mil       5368mil       5480mil       5340mil       5480mil       5340mil  B         90.00 1u Farads 10%  
+C52        SM/C_0603         3174.685mil   3905.866mil   3174.685mil   3877.866mil   3174.685mil   3877.866mil  T         90.00 1000p Farads 1%
+C53        SM/C_0603         3265.185mil   3905.866mil   3265.185mil   3877.866mil   3265.185mil   3877.866mil  T         90.00 1000p Farads 1%
+C54        SM/C_0603         3884.685mil   3911.662mil   3884.685mil   3883.662mil   3884.685mil   3883.662mil  T         90.00 1000p Farads 1%
+C55        SM/C_0603         3984.685mil   3921.662mil   3984.685mil   3893.662mil   3984.685mil   3893.662mil  T         90.00 1000p Farads 1%
+C58        SM/C_0603         3464.685mil   3690.662mil   3464.685mil   3718.662mil   3464.685mil   3718.662mil  T        270.00 1u Farads 10%  
+C59        SM/C_0603         3624.685mil   3690.662mil   3624.685mil   3718.662mil   3624.685mil   3718.662mil  T        270.00 1u Farads 10%  
+C60        SM/C_0603         3852.685mil   3633.662mil   3824.685mil   3633.662mil   3824.685mil   3633.662mil  T        360.00 1000p Farads 1%
+C61        SM/C_0603         4012.685mil   3633.662mil   3984.685mil   3633.662mil   3984.685mil   3633.662mil  T          0.00 1000p Farads 1%
+C64        SM/C_0603             5838mil       1275mil       5810mil       1275mil       5810mil       1275mil  B        360.00 1u Farads 10%  
+C65        SM/C_0603             5310mil       1343mil       5310mil       1315mil       5310mil       1315mil  B         90.00 1u Farads 10%  
+C66        Y2-Caps-Epocs-1uF-10%       1985mil       1270mil       1985mil       1270mil   1246.811mil       1270mil  T        360.00 1uF Farads 10% 
+C68        SM/C_0603         5014.567mil   2034.823mil   5014.567mil   2006.823mil   5014.567mil   2006.823mil  T         90.00 1000p Farads 1%
+C69        SM/C_0603         5114.567mil   2034.823mil   5114.567mil   2006.823mil   5114.567mil   2006.823mil  T         90.00 1000p Farads 1%
+C70        SM/C_0603         4996.567mil   1756.323mil   5024.567mil   1756.323mil   5024.567mil   1756.323mil  T        180.00 1000p Farads 1%
+C73        SM/C_0603             5880mil       2307mil       5880mil       2335mil       5880mil       2335mil  B        270.00 47p Farads 1%  
+C74        SM/C_0603             5688mil       2335mil       5660mil       2335mil       5660mil       2335mil  B        360.00 47p Farads 1%  
+C75        SM/C_0603             5223mil       3410mil       5195mil       3410mil       5195mil       3410mil  T        360.00 1u Farads 10%  
+C76        SM/C_0603             5375mil       3482mil       5375mil       3510mil       5375mil       3510mil  T        270.00 1u Farads 10%  
+C79        SM/C_0603             5625mil       1203mil       5625mil       1175mil       5625mil       1175mil  T         90.00 1u Farads 10%  
+C80        SM/C_0603             5893mil       1325mil       5865mil       1325mil       5865mil       1325mil  T        360.00 1u Farads 10%  
+C81        SM/C_0603             5458mil       2120mil       5430mil       2120mil       5430mil       2120mil  B        360.00 1u Farads 10%  
+C82        SM/C_0603         4915.433mil       1108mil   4915.433mil       1080mil   4915.433mil       1080mil  T         90.00 1u Farads 10%  
+C83        SM/C_0603         5203.433mil       1160mil   5175.433mil       1160mil   5175.433mil       1160mil  T        360.00 1u Farads 10%  
+C84        SM/C_0603             5833mil       3020mil       5805mil       3020mil       5805mil       3020mil  B        360.00 47p Farads 1%  
+C85        SM/C_0603             5580mil       2138mil       5580mil       2110mil       5580mil       2110mil  B         90.00 33pF Farads 1% 
+C86        SM/C_0603             5613mil       3015mil       5585mil       3015mil       5585mil       3015mil  B        360.00 47p Farads 1%  
+C87        SM/C_0603             5037mil       3020mil       5065mil       3020mil       5065mil       3020mil  B        180.00 47p Farads 1%  
+C88        SM/C_0603             3640mil       1058mil       3640mil       1030mil       3640mil       1030mil  T         90.00 1u Farads 10%  
+C89        SM/C_0603             5800mil       2058mil       5800mil       2030mil       5800mil       2030mil  B         90.00 47p Farads 1%  
+C91        SM/C_0603             5398mil       2790mil       5370mil       2790mil       5370mil       2790mil  B        360.00 1u Farads 10%  
+C93        SM/C_0603             5515mil       2828mil       5515mil       2800mil       5515mil       2800mil  B         90.00 33pF Farads 1% 
+C94        SM/C_0603             5135mil       2823mil       5135mil       2795mil       5135mil       2795mil  B         90.00 33pF Farads 1% 
+C95        SM/C_0603             4152mil        940mil       4180mil        940mil       4180mil        940mil  B        180.00 1u Farads 10%  
+C96        SM/C_0603             4008mil        940mil       3980mil        940mil       3980mil        940mil  B        360.00 1u Farads 10%  
+C97        SM/C_0603             5735mil       2833mil       5735mil       2805mil       5735mil       2805mil  B         90.00 47p Farads 1%  
+C98        SM/C_0603             4915mil       2823mil       4915mil       2795mil       4915mil       2795mil  B         90.00 47p Farads 1%  
+C99        SM/C_0603             5107mil       2335mil       5135mil       2335mil       5135mil       2335mil  B        180.00 47p Farads 1%  
+C100       SM/C_0603             4872mil       2335mil       4900mil       2335mil       4900mil       2335mil  B        180.00 47p Farads 1%  
+C101       SM/C_0603             5322mil       2120mil       5350mil       2120mil       5350mil       2120mil  B        180.00 1u Farads 10%  
+C102       SM/C_0603             5012mil        945mil       5040mil        945mil       5040mil        945mil  B        180.00 1u Farads 10%  
+C103       SM/C_0603             4720mil       1168mil       4720mil       1140mil       4720mil       1140mil  B         90.00 1u Farads 10%  
+C104       SM/C_0603             5205mil       2153mil       5205mil       2125mil       5205mil       2125mil  B         90.00 33pF Farads 1% 
+C105       SM/C_0603             4985mil       2153mil       4985mil       2125mil       4985mil       2125mil  B         90.00 47p Farads 1%  
+C106       SM/C_0603             3908mil       1160mil       3880mil       1160mil       3880mil       1160mil  T        360.00 1u Farads 10%  
+C120       SM/C_0603             5275mil       4282mil       5275mil       4310mil       5275mil       4310mil  B        270.00 1u Farads 10%  
+C121       SM/C_0603             5175mil       4282mil       5175mil       4310mil       5175mil       4310mil  B        270.00 1u Farads 10%  
+CON6       BNC-RightAngle-PCB-50Ohm-Termination       5696mil        401mil       5710mil         -5mil       5496mil        301mil  T        180.00 5227161-1      
+CON7       BNC-RightAngle-PCB-50Ohm-Termination       5612mil       4106mil       6018mil       4120mil       5712mil       3906mil  T        270.00 5227161-1      
+CON9       BNC-RightAngle-PCB-50Ohm-Termination       3896mil        401mil       3910mil         -5mil       3696mil        301mil  T        180.00 5227161-1      
+CON10      BNC-RightAngle-PCB-50Ohm-Termination       5096mil        401mil       5110mil         -5mil       4896mil        301mil  T        180.00 5227161-1      
+CON_FGND   LOW-PROFILE-SCREWTERMINAL       3220mil        380mil       3220mil        380mil       3220mil        380mil  T         90.00 1299           
+CON_L1     LOW-PROFILE-SCREWTERMINAL        240mil       2520mil        240mil       2520mil        240mil       2520mil  T        270.00 1299           
+CON_L2     LOW-PROFILE-SCREWTERMINAL        400mil        940mil        400mil        940mil        400mil        940mil  T        180.00 1299           
+CON_N1     LOW-PROFILE-SCREWTERMINAL        440mil       1840mil        440mil       1840mil        440mil       1840mil  T        180.00 1299           
+CON_N2     LOW-PROFILE-SCREWTERMINAL        420mil        200mil        420mil        200mil        420mil        200mil  T        180.00 1299           
+D_STAT1    LITEON/LED/0603       4710mil       5005mil       4710mil       5005mil       4710mil   5038.465mil  B        270.00 red            
+D_STAT2    LITEON/LED/0603       3965mil       5025mil       3965mil       5025mil       3965mil   5058.465mil  B        270.00 red            
+D_STAT3    LITEON/LED/0603       4465mil       5005mil       4465mil       5005mil       4465mil   5038.465mil  B        270.00 red            
+D_STAT4    LITEON/LED/0603       4225mil       4995mil       4225mil       4995mil       4225mil   5028.465mil  B        270.00 red            
+F2         WICKMANN/WK0011-ND        720mil       2540mil        720mil       2540mil        720mil   2835.276mil  T         90.00 110V @ 100 milliamp Fast Blow
+F3         WICKMANN/WK0011-ND        460mil       1380mil        460mil       1380mil    164.724mil       1380mil  T        180.00 110V @ 100 milliamp Fast Blow
+R32        Resistor-3.2mm_x_1.70mm       3475mil   3093.425mil       3475mil   3093.425mil       3475mil   2893.425mil  T         90.00 30k Ohms 1%    
+R33        Resistor-3.2mm_x_1.70mm       3075mil   3093.425mil       3075mil   3093.425mil       3075mil   2893.425mil  T         90.00 30k Ohms 1%    
+R34        SM/C_0603             3895mil       1622mil       3895mil       1650mil       3895mil       1650mil  B        270.00 10k ohm 1%     
+R35        SM/C_0603             5255mil       5153mil       5255mil       5125mil       5255mil       5125mil  T         90.00 3k Ohms 1%     
+R36        SM/C_0603             5423mil       4865mil       5395mil       4865mil       5395mil       4865mil  T        360.00 1k Ohms 1%     
+R37        SM/R_0603          4023.22mil       2380mil    4051.22mil       2380mil    4051.22mil       2380mil  T        180.00 0 Ohms 0       
+R38        SM/C_0603         3724.685mil   4030.662mil   3724.685mil   4058.662mil   3724.685mil   4058.662mil  T        270.00 1k Ohms 1%     
+R39        SM/R_0603             5380mil       4368mil       5380mil       4340mil       5380mil       4340mil  T         90.00 50 Ohm 1%      
+R40        SM/C_0603         5455.315mil   2805.162mil   5455.315mil   2833.162mil   5455.315mil   2833.162mil  T        270.00 1k Ohms 1%     
+R41        SM/R_0603         4998.748mil   2828.162mil   4970.748mil   2828.162mil   4970.748mil   2828.162mil  T          0.00 2.7M Ohm 1%    
+R42        SM/R_0603             5148mil   2828.162mil       5120mil   2828.162mil       5120mil   2828.162mil  T        360.00 2.7M Ohm 1%    
+R43        SM/C_0603             5432mil       5705mil       5460mil       5705mil       5460mil       5705mil  B        180.00 22 ohms 1%     
+R44        SM/C_0603             5115mil       4062mil       5115mil       4090mil       5115mil       4090mil  T        270.00 10k ohm 1%     
+R45        SM/C_0603         5355.315mil   2805.162mil   5355.315mil   2833.162mil   5355.315mil   2833.162mil  T        270.00 1k Ohms 1%     
+R46        SM/C_0603         5555.315mil   2801.162mil   5555.315mil   2773.162mil   5555.315mil   2773.162mil  T         90.00 1k Ohms 1%     
+R47        SM/C_0603             5432mil       5620mil       5460mil       5620mil       5460mil       5620mil  B        180.00 22 ohms 1%     
+R48        SM/C_0603         5270.315mil   2821.162mil   5270.315mil   2793.162mil   5270.315mil   2793.162mil  T         90.00 1k Ohms 1%     
+R49        SM/R_0603         5031.248mil       2572mil   5031.248mil       2600mil   5031.248mil       2600mil  T        270.00 2.7M Ohm 1%    
+R50        SM/R_0603         5131.248mil       2572mil   5131.248mil       2600mil   5131.248mil       2600mil  T        270.00 2.7M Ohm 1%    
+R51        SM/C_0603             5247mil       4230mil       5275mil       4230mil       5275mil       4230mil  T        180.00 1k Ohms 1%     
+R52        SM/C_0603             5375mil       4222mil       5375mil       4250mil       5375mil       4250mil  T        270.00 1k Ohms 1%     
+R53        SM/C_0603             4360mil       5823mil       4360mil       5795mil       4360mil       5795mil  B         90.00 10k ohm 1%     
+R29        SM/R_0603         5701.567mil   2111.823mil   5729.567mil   2111.823mil   5729.567mil   2111.823mil  T        180.00 2.7M Ohm 1%    
+R30        SM/R_0603         5841.567mil   2111.823mil   5869.567mil   2111.823mil   5869.567mil   2111.823mil  T        180.00 2.7M Ohm 1%    
+R56        SM/C_0603             4700mil       4847mil       4700mil       4875mil       4700mil       4875mil  B        270.00 330 Ohms 1%    
+R57        SM/C_0603             3375mil       5803mil       3375mil       5775mil       3375mil       5775mil  B         90.00 1k Ohms 1%     
+R31        SM/R_0603         5730.067mil   1853.823mil   5730.067mil   1881.823mil   5730.067mil   1881.823mil  T        270.00 2.7M Ohm 1%    
+R59        SM/R_0603         5795.815mil   2575.162mil   5795.815mil   2603.162mil   5795.815mil   2603.162mil  T        270.00 2.7M Ohm 1%    
+R60        SM/C_0603             3510mil       5807mil       3510mil       5835mil       3510mil       5835mil  B        270.00 1k Ohms 1%     
+R70        SM/C_0603         3424.685mil   4026.662mil   3424.685mil   3998.662mil   3424.685mil   3998.662mil  T         90.00 1k Ohms 1%     
+R72        SM/R_0603         3307.685mil   4023.662mil   3279.685mil   4023.662mil   3279.685mil   4023.662mil  T        360.00 2.7M Ohm 1%    
+R73        SM/R_0603         3856.685mil   4033.662mil   3884.685mil   4033.662mil   3884.685mil   4033.662mil  T        180.00 2.7M Ohm 1%    
+R74        SM/R_0603         3996.685mil   4033.662mil   4024.685mil   4033.662mil   4024.685mil   4033.662mil  T        180.00 2.7M Ohm 1%    
+R75        SM/R_0603         3159.685mil   3755.662mil   3159.685mil   3783.662mil   3159.685mil   3783.662mil  T        270.00 2.7M Ohm 1%    
+R76        SM/R_0603             5690mil       1487mil       5690mil       1515mil       5690mil       1515mil  B        270.00 0 Ohms 0       
+R78        SM/C_0603             5810mil       1387mil       5810mil       1415mil       5810mil       1415mil  B        270.00 10k ohm 1%     
+R79        SM/R_0603         3884.685mil   3765.662mil   3884.685mil   3793.662mil   3884.685mil   3793.662mil  T        270.00 2.7M Ohm 1%    
+R81        SM/R_0603         3984.685mil   3765.662mil   3984.685mil   3793.662mil   3984.685mil   3793.662mil  T        270.00 2.7M Ohm 1%    
+R82        SM/C_0603          3991.22mil       2668mil    3991.22mil       2640mil    3991.22mil       2640mil  T         90.00 10k ohm 1%     
+R83        SM/R_0603             5655mil        998mil       5655mil        970mil       5655mil        970mil  B         90.00 0 Ohms 0       
+R84        Resistor-3.2mm_x_1.70mm       3345mil       2205mil       3345mil       2205mil       3145mil       2205mil  T          0.00 30k Ohms 1%    
+R88        SM/C_0603         5474.567mil   2133.823mil   5474.567mil   2161.823mil   5474.567mil   2161.823mil  T        270.00 1k Ohms 1%     
+R89        SM/R_0603             5800mil       2363mil       5800mil       2335mil       5800mil       2335mil  B         90.00 33k Ohms 1%    
+R91        SM/R_0603             5580mil       2303mil       5580mil       2275mil       5580mil       2275mil  B         90.00 49.9k Ohms 1%  
+R94        Resistor-3.2mm_x_1.70mm       3150mil       2520mil       3150mil       2520mil       3150mil       2720mil  T        270.00 30k Ohms 1%    
+R95        SM/R_0603             5832mil       2170mil       5860mil       2170mil       5860mil       2170mil  B        180.00 12k Ohms 1%    
+R96        SM/R_0603             5692mil       2170mil       5720mil       2170mil       5720mil       2170mil  B        180.00 12k Ohms 1%    
+R97        SM/R_0603             5360mil        992mil       5360mil       1020mil       5360mil       1020mil  B        270.00 0 Ohms 0       
+R98        SM/R_0603             5020mil       3068mil       5020mil       3040mil       5020mil       3040mil  T         90.00 0 Ohms 0       
+R101       SM/C_0603         5374.567mil   2133.823mil   5374.567mil   2161.823mil   5374.567mil   2161.823mil  T        270.00 1k Ohms 1%     
+R102       SM/R_0603             5470mil       1483mil       5470mil       1455mil       5470mil       1455mil  B         90.00 0 Ohms 0       
+R103       SM/R_0603             3992mil        680mil       4020mil        680mil       4020mil        680mil  T        180.00 50 Ohm 1%      
+R104       SM/C_0603         5574.567mil   2129.823mil   5574.567mil   2101.823mil   5574.567mil   2101.823mil  T         90.00 1k Ohms 1%     
+R105       SM/C_0603         5294.567mil   2129.823mil   5294.567mil   2101.823mil   5294.567mil   2101.823mil  T         90.00 1k Ohms 1%     
+R106       SM/R_0603             5380mil       3248mil       5380mil       3220mil       5380mil       3220mil  T         90.00 50 Ohm 1%      
+R107       SM/R_0603             5020mil       1872mil       5020mil       1900mil       5020mil       1900mil  T        270.00 2.7M Ohm 1%    
+R108       SM/R_0603             5120mil       1872mil       5120mil       1900mil       5120mil       1900mil  T        270.00 2.7M Ohm 1%    
+R109       SM/R_0603             5135mil       3118mil       5135mil       3090mil       5135mil       3090mil  T         90.00 0 Ohms 0       
+R110       SM/C_0603             5095mil       3462mil       5095mil       3490mil       5095mil       3490mil  T        270.00 10k ohm 1%     
+R111       SM/C_0603             5227mil       3650mil       5255mil       3650mil       5255mil       3650mil  T        180.00 1k Ohms 1%     
+R112       SM/C_0603             5375mil       3622mil       5375mil       3650mil       5375mil       3650mil  T        270.00 1k Ohms 1%     
+R113       SM/C_0603             5633mil        927mil       5633mil        955mil       5633mil        955mil  T        270.00 1k Ohms 1%     
+R114       SM/R_0603             5837mil        865mil       5865mil        865mil       5865mil        865mil  T        180.00 50 Ohm 1%      
+R115       SM/C_0603             5633mil       1063mil       5633mil       1035mil       5633mil       1035mil  T         90.00 1k Ohms 1%     
+R116       SM/C_0603         4915.433mil        832mil   4915.433mil        860mil   4915.433mil        860mil  T        270.00 1k Ohms 1%     
+R117       SM/R_0603         5167.433mil        700mil   5195.433mil        700mil   5195.433mil        700mil  T        180.00 50 Ohm 1%      
+R118       SM/C_0603         4915.433mil        968mil   4915.433mil        940mil   4915.433mil        940mil  T         90.00 1k Ohms 1%     
+R119       SM/R_0603             5725mil       3048mil       5725mil       3020mil       5725mil       3020mil  B         90.00 33k Ohms 1%    
+R120       SM/R_0603             3920mil       2948mil       3920mil       2920mil       3920mil       2920mil  T         90.00 0 Ohms 0       
+R121       SM/R_0603             3715mil       1822mil       3715mil       1850mil       3715mil       1850mil  B        270.00 0 Ohms 0       
+R122       SM/R_0603             3715mil       1262mil       3715mil       1290mil       3715mil       1290mil  B        270.00 0 Ohms 0       
+R123       SM/R_0603             3555mil       1262mil       3555mil       1290mil       3555mil       1290mil  B        270.00 0 Ohms 0       
+R124       SM/R_0603             5195mil       4398mil       5195mil       4370mil       5195mil       4370mil  T         90.00 0 Ohms 0       
+R125       SM/R_0603             3575mil       1818mil       3575mil       1790mil       3575mil       1790mil  B         90.00 0 Ohms 0       
+R128       SM/C_0603             3640mil        782mil       3640mil        810mil       3640mil        810mil  T        270.00 1k Ohms 1%     
+R129       SM/C_0603             3640mil        918mil       3640mil        890mil       3640mil        890mil  T         90.00 1k Ohms 1%     
+R130       SM/R_0603             4915mil       3058mil       4915mil       3030mil       4915mil       3030mil  B         90.00 33k Ohms 1%    
+R131       SM/C_0603             4028mil       1260mil       4000mil       1260mil       4000mil       1260mil  B        360.00 10k ohm 1%     
+R132       SM/R_0603             5505mil       2983mil       5505mil       2955mil       5505mil       2955mil  B         90.00 49.9k Ohms 1%  
+R133       SM/R_0603             5145mil       2988mil       5145mil       2960mil       5145mil       2960mil  B         90.00 49.9k Ohms 1%  
+R134       SM/R_0603             5847mil       2865mil       5875mil       2865mil       5875mil       2865mil  B        180.00 12k Ohms 1%    
+R135       SM/R_0603             5627mil       2865mil       5655mil       2865mil       5655mil       2865mil  B        180.00 12k Ohms 1%    
+R136       SM/R_0603             5023mil       2855mil       4995mil       2855mil       4995mil       2855mil  B        360.00 12k Ohms 1%    
+R137       SM/R_0603             4803mil       2855mil       4775mil       2855mil       4775mil       2855mil  B        360.00 12k Ohms 1%    
+R138       SM/C_0603             4883mil       1260mil       4855mil       1260mil       4855mil       1260mil  B        360.00 10k ohm 1%     
+R139       SM/R_0603             4995mil       2363mil       4995mil       2335mil       4995mil       2335mil  B         90.00 33k Ohms 1%    
+R140       SM/R_0603             5215mil       2303mil       5215mil       2275mil       5215mil       2275mil  B         90.00 49.9k Ohms 1%  
+R141       SM/R_0603             5093mil       2185mil       5065mil       2185mil       5065mil       2185mil  B        360.00 12k Ohms 1%    
+R142       SM/R_0603             4873mil       2185mil       4845mil       2185mil       4845mil       2185mil  B        360.00 12k Ohms 1%    
+R144       SM/C_0603             3965mil       4837mil       3965mil       4865mil       3965mil       4865mil  B        270.00 330 Ohms 1%    
+R145       SM/C_0603             4465mil       4837mil       4465mil       4865mil       4465mil       4865mil  B        270.00 330 Ohms 1%    
+R146       SM/C_0603             4215mil       4837mil       4215mil       4865mil       4215mil       4865mil  B        270.00 330 Ohms 1%    
+RESET      MOM-SW            4102.047mil   5747.835mil       3980mil       5675mil       3980mil       5675mil  B          0.00 CKN9104CT-ND   
+BOOT       MOM-SW            3741.126mil   5749.256mil   3619.079mil   5676.421mil   3619.079mil   5676.421mil  B          0.00 CKN9104CT-ND   
+TP2V5      TEST_PT_SMD           3760mil       4830mil       3760mil       4830mil       3760mil       4830mil  T        180.00 5016           
+TP5        TEST_PT_SMD           5340mil       3880mil       5340mil       3880mil       5340mil       3880mil  T        180.00 5016           
+TP5V       TEST_PT_SMD           3210mil       4840mil       3210mil       4840mil       3210mil       4840mil  T        180.00 5016           
+TP6        TEST_PT_SMD       5720.315mil   2994.162mil   5720.315mil   2994.162mil   5720.315mil   2994.162mil  T        180.00 5016           
+TP7        TEST_PT_SMD           3820mil       4255mil       3820mil       4255mil       3820mil       4255mil  T         90.00 5016           
+TP9        TEST_PT_SMD           5780mil       2620mil       5780mil       2620mil       5780mil       2620mil  B        180.00 5016           
+TP10       TEST_PT_SMD           4995mil   2621.237mil       4995mil   2621.237mil       4995mil   2621.237mil  B        180.00 5016           
+TP12       TEST_PT_SMD           5650mil       1115mil       5650mil       1115mil       5650mil       1115mil  B        180.00 5016           
+TP13       TEST_PT_SMD           5795mil       1935mil       5795mil       1950mil       5795mil       1935mil  B        180.00 5016           
+TP14       TEST_PT_SMD           4975mil       1965mil       4975mil       1965mil       4975mil       1965mil  B        180.00 5016           
+TP15       TEST_PT_SMD           5460mil       1120mil       5460mil       1120mil       5460mil       1120mil  B        180.00 5016           
+TP17       TEST_PT_SMD           3540mil        600mil       3540mil        600mil       3540mil        600mil  T         90.00 5016           
+TP18       TEST_PT_SMD           5000mil       3260mil       5000mil       3260mil       5000mil       3260mil  T        180.00 5016           
+TP19       TEST_PT_SMD           5340mil       3785mil       5340mil       3785mil       5340mil       3785mil  T        180.00 5016           
+TP20       TEST_PT_SMD       5760.315mil   2278.162mil   5760.315mil   2278.162mil   5760.315mil   2278.162mil  T        180.00 5016           
+TP21       TEST_PT_SMD           4760mil        720mil       4760mil        720mil       4760mil        720mil  B        180.00 5016           
+TP22       TEST_PT_SMD           5920mil        640mil       5920mil        640mil       5920mil        640mil  T        180.00 5016           
+TP23       TEST_PT_SMD           5140mil        740mil       5140mil        740mil       5140mil        740mil  B        180.00 5016           
+TP24       TEST_PT_SMD           3735mil       1390mil       3735mil       1390mil       3735mil       1390mil  B        180.00 5016           
+TP25       TEST_PT_SMD           3555mil       1390mil       3555mil       1390mil       3555mil       1390mil  B        180.00 5016           
+TP27       TEST_PT_SMD           4120mil        680mil       4120mil        680mil       4120mil        680mil  T         90.00 5016           
+TP34       TEST_PT_SMD           5320mil        680mil       5320mil        680mil       5320mil        680mil  T         90.00 5016           
+TP-5V      TEST_PT_SMD           5655mil       4865mil       5655mil       4865mil       5655mil       4865mil  T        180.00 5016           
+TP_-2V5    TEST_PT_SMD           4820mil       4835mil       4820mil       4835mil       4820mil       4835mil  T        180.00 5016           
+TP_CS0     TEST_PT_SMD           4405mil       4655mil       4405mil       4655mil       4405mil       4655mil  B        180.00 5016           
+TP_CS1     TEST_PT_SMD           4405mil       4555mil       4405mil       4555mil       4405mil       4555mil  B        180.00 5016           
+TP_F0      TEST_PT_SMD           4280mil       5455mil       4280mil       5455mil       4280mil       5455mil  B        180.00 5016           
+TP_F1      TEST_PT_SMD           4040mil       5455mil       4040mil       5455mil       4040mil       5455mil  B        180.00 5016           
+TP_F2      TEST_PT_SMD           3800mil       5455mil       3800mil       5455mil       3800mil       5455mil  B        180.00 5016           
+TP_F3      TEST_PT_SMD           3560mil       5455mil       3560mil       5455mil       3560mil       5455mil  B        180.00 5016           
+TP_F4      TEST_PT_SMD           4260mil       5240mil       4260mil       5240mil       4260mil       5240mil  B        180.00 5016           
+TP_F5      TEST_PT_SMD           4040mil       5255mil       4040mil       5255mil       4040mil       5255mil  B        180.00 5016           
+TP_GND2    TEST_PT_SMD           3360mil       5340mil       3360mil       5340mil       3360mil       5340mil  B         90.00 5016           
+TP_GND     TEST_PT_SMD           5840mil       4580mil       5840mil       4580mil       5840mil       4580mil  T        270.00 5016           
+TP_MISO    TEST_PT_SMD           5420mil       4940mil       5420mil       4940mil       5420mil       4940mil  B         90.00 5016           
+TP_MOSI    TEST_PT_SMD           5480mil       5140mil       5480mil       5140mil       5480mil       5140mil  B         90.00 5016           
+TP_SCK     TEST_PT_SMD           5805mil       4825mil       5805mil       4825mil       5805mil       4825mil  B         90.00 5016           
+TPSCL      TEST_PT_SMD           4615mil       4340mil       4615mil       4320mil       4615mil       4340mil  B        180.00 5016           
+TPSDA      TEST_PT_SMD           4615mil       4500mil       4615mil       4500mil       4615mil       4500mil  B        180.00 5016           
+U5         TSOT-23-LTC6252-OpAmp       5235mil       4110mil       5235mil       4110mil   5283.228mil   4072.598mil  T        180.00 LTC6252        
+U6         TQFP80P1200X1200X120-44L       5155mil       5370mil       5155mil       5370mil   5375.472mil    5527.48mil  B        180.00 ATMEGA32U4-AU  
+U7         MSOP-16Lead-LTC6254   5425.748mil   2628.161mil   5425.748mil   2628.162mil   5344.055mil   2697.059mil  T          0.00 LTC6254CMS#PBF-ND
+U10        MSOP-16Lead-LTC6254       5330mil       2930mil       5330mil       2930mil   5411.693mil   2998.898mil  B        180.00 LTC6254CMS#PBF-ND
+U13        MSOP-16Lead-LTC6254       5400mil       2255mil       5400mil       2255mil   5481.693mil   2323.898mil  B        180.00 LTC6254CMS#PBF-ND
+U15        SOIC-14pin-National-Semiconductor       3840mil        930mil       3840mil        930mil   3934.488mil        780mil  T        180.00 LMP8100-ProgrammableGainAmp
+U16        TSOT-23-LTC6252-OpAmp       5235mil       3530mil       5235mil       3530mil   5283.228mil   3492.598mil  T        180.00 LTC6252        
+U17        SOIC-14pin-National-Semiconductor   5820.433mil       1095mil   5820.433mil       1095mil   5914.921mil        945mil  T        180.00 LMP8100-ProgrammableGainAmp
+U19        TSSOP-14Lead-AnalogDevices-ADG636       4080mil       1100mil       4080mil       1100mil   4193.189mil   1176.772mil  B        180.00 ADG636YRUZ     
+U20        TSSOP-20Lead-MAXIM       5235mil       4490mil       5235mil       4490mil   5121.811mil   4374.842mil  B        360.00 MAX3002EUP+    
+U21        TSSOP-14Lead-AnalogDevices-ADG636       4935mil       1100mil       4935mil       1100mil   5048.189mil   1176.772mil  B        180.00 ADG636YRUZ     
+VR4        LM337-ADJ-NEG-VOLT-REG       5475mil       5125mil       5475mil       5125mil       5475mil   5010.827mil  T         90.00 LM337IMP/NOPB  
+VR3        LM337-ADJ-NEG-VOLT-REG       4620mil       5110mil       4620mil       5110mil       4620mil   4995.827mil  T         90.00 LM337IMP/NOPB  
+VR2        LM317-SOT233-POS-ADJ-VOLT_REG       3830mil       5090mil       3830mil       5090mil   3739.449mil   5204.173mil  T        270.00 LM317EMP/NOPB  
+VR1        LM317-SOT233-POS-ADJ-VOLT_REG       3330mil   5091.181mil       3330mil   5091.181mil   3239.449mil   5205.354mil  T        270.00 LM317EMP/NOPB  
+U18        SOIC-14pin-National-Semiconductor   5115.433mil        940mil   5115.433mil        940mil   5209.921mil        790mil  T        180.00 LMP8100-ProgrammableGainAmp
+U12        SOIC-14pin-National-Semiconductor       4485mil        930mil       4485mil        930mil   4579.488mil        780mil  T        180.00 LMP8100-ProgrammableGainAmp
+U11        TSOT-23-LTC6252-OpAmp    3876.22mil       2605mil    3876.22mil       2605mil   3827.992mil   2642.402mil  T          0.00 LTC6252        
+U4         TSSOP-14Lead-AnalogDevices-ADG636       3655mil       1550mil       3655mil       1550mil   3768.189mil   1626.772mil  B        180.00 ADG636YRUZ     
+U3         MSOP-16Lead-LTC6254   3595.433mil       1795mil   3595.433mil       1795mil    3513.74mil   1863.898mil  T          0.00 LTC6254CMS#PBF-ND
+TP26       TEST_PT_SMD           4745mil        670mil       4745mil        670mil       4745mil        670mil  T         90.00 5016           
+TP11       TEST_PT_SMD           4040mil       2220mil       4040mil       2220mil       4040mil       2220mil  T        180.00 5016           
+TP8        TEST_PT_SMD           4280mil        660mil       4280mil        660mil       4280mil        660mil  B        180.00 5016           
+TP4        TEST_PT_SMD       4992.887mil   4306.874mil   4992.887mil   4306.874mil   4992.887mil   4306.874mil  T         90.00 5016           
+TP3        TEST_PT_SMD           3705mil       2960mil       3705mil       2960mil       3705mil       2960mil  T         90.00 5016           
+TP2        TEST_PT_SMD           4180mil       1960mil       4180mil       1960mil       4180mil       1960mil  T         90.00 5016           
+TP1        TEST_PT_SMD           4040mil       2920mil       4040mil       2920mil       4040mil       2920mil  T         90.00 5016           
+R127       SM/C_0603             4285mil        898mil       4285mil        870mil       4285mil        870mil  T         90.00 1k Ohms 1%     
+R126       SM/C_0603             4285mil        762mil       4285mil        790mil       4285mil        790mil  T        270.00 1k Ohms 1%     
+R100       SM/R_0603         5152.567mil   2156.823mil   5124.567mil   2156.823mil   5124.567mil   2156.823mil  T        360.00 2.7M Ohm 1%    
+R99        SM/R_0603         4992.567mil   2147.323mil   4964.567mil   2147.323mil   4964.567mil   2147.323mil  T        360.00 2.7M Ohm 1%    
+R93        Resistor-3.2mm_x_1.70mm       3550mil       2520mil       3550mil       2520mil       3550mil       2720mil  T        270.00 30k Ohms 1%    
+R86        SM/C_0603          3991.22mil       2508mil    3991.22mil       2480mil    3991.22mil       2480mil  T         90.00 1k Ohms 1%     
+R85        SM/C_0603          3884.22mil       2490mil    3856.22mil       2490mil    3856.22mil       2490mil  T        360.00 1k Ohms 1%     
+R80        SM/R_0603             4597mil        690mil       4625mil        690mil       4625mil        690mil  T        180.00 50 Ohm 1%      
+R77        SM/R_0603         3259.685mil   3755.662mil   3259.685mil   3783.662mil   3259.685mil   3783.662mil  T        270.00 2.7M Ohm 1%    
+R71        SM/R_0603         3157.685mil   4033.662mil   3129.685mil   4033.662mil   3129.685mil   4033.662mil  T          0.00 2.7M Ohm 1%    
+R28        SM/C_0603             4548mil       4850mil       4520mil       4850mil       4520mil       4850mil  T        360.00 1k Ohms 1%     
+R27        Resistor-3.2mm_x_1.70mm       3275mil   3413.425mil       3275mil   3413.425mil       3075mil   3413.425mil  T        360.00 30k Ohms 1%    
+R26        SM/R_0603         3916.366mil       1742mil   3916.366mil       1770mil   3916.366mil       1770mil  T        270.00 2.7M Ohm 1%    
+R25        SM/R_0603         4008.366mil       1742mil   4008.366mil       1770mil   4008.366mil       1770mil  T        270.00 2.7M Ohm 1%    
+R24        SM/C_0603             5795mil       4778mil       5795mil       4750mil       5795mil       4750mil  T         90.00 330 Ohms 1%    
+R23        SM/R_0603         3340.433mil       1752mil   3340.433mil       1780mil   3340.433mil       1780mil  T        270.00 2.7M Ohm 1%    
+R22        SM/R_0603         3240.433mil       1752mil   3240.433mil       1780mil   3240.433mil       1780mil  T        270.00 2.7M Ohm 1%    
+R21        SM/C_0603             4400mil       5122mil       4400mil       5150mil       4400mil       5150mil  T        270.00 1k Ohms 1%     
+R20        SM/R_0603         4027.866mil       1990mil   4055.866mil       1990mil   4055.866mil       1990mil  T        180.00 2.7M Ohm 1%    
+R19        SM/R_0603         3887.433mil       1995mil   3915.433mil       1995mil   3915.433mil       1995mil  T        180.00 2.7M Ohm 1%    
+R18        SM/C_0603             4118mil       5190mil       4090mil       5190mil       4090mil       5190mil  T          0.00 1k Ohms 1%     
+R17        SM/R_0603         3363.433mil       1995mil   3335.433mil       1995mil   3335.433mil       1995mil  T        360.00 2.7M Ohm 1%    
+R16        SM/R_0603         3223.433mil       1995mil   3195.433mil       1995mil   3195.433mil       1995mil  T        360.00 2.7M Ohm 1%    
+R15        SM/C_0603             5060mil       4827mil       5060mil       4855mil       5060mil       4855mil  T        270.00 330 Ohms 1%    
+R14        SM/C_0603         3480.866mil       1983mil   3480.866mil       1955mil   3480.866mil       1955mil  T         90.00 1k Ohms 1%     
+R13        SM/C_0603             3878mil       5310mil       3850mil       5310mil       3850mil       5310mil  T          0.00 1k Ohms 1%     
+R12        SM/C_0603         3740.866mil       1983mil   3740.866mil       1955mil   3740.866mil       1955mil  T         90.00 1k Ohms 1%     
+R11        SM/C_0603         3570.866mil       1983mil   3570.866mil       2011mil   3570.866mil       2011mil  T        270.00 1k Ohms 1%     
+R10        SM/C_0603             4005mil       3148mil       4005mil       3120mil       4005mil       3120mil  T         90.00 1k Ohms 1%     
+R9         SM/C_0603             3853mil       3100mil       3825mil       3100mil       3825mil       3100mil  T          0.00 1k Ohms 1%     
+R8         SM/C_0603         3660.866mil       1983mil   3660.866mil       2011mil   3660.866mil       2011mil  T        270.00 1k Ohms 1%     
+R7         SM/C_0603             3980mil       4918mil       3980mil       4890mil       3980mil       4890mil  T         90.00 330 Ohms 1%    
+R6         SM/C_0603             3392mil       5465mil       3420mil       5465mil       3420mil       5465mil  T        180.00 3k Ohms 1%     
+R5         SM/C_0603             4005mil       3288mil       4005mil       3260mil       4005mil       3260mil  T         90.00 10k ohm 1%     
+R4         SM/C_0603             3208mil       5465mil       3180mil       5465mil       3180mil       5465mil  T          0.00 1k Ohms 1%     
+R3         SM/C_0603          3470.25mil       4908mil    3470.25mil       4880mil    3470.25mil       4880mil  T         90.00 330 Ohms 1%    
+R2         SM/C_0603         3524.685mil   4030.662mil   3524.685mil   4058.662mil   3524.685mil   4058.662mil  T        270.00 1k Ohms 1%     
+R1         SM/C_0603         3624.685mil   4030.662mil   3624.685mil   4058.662mil   3624.685mil   4058.662mil  T        270.00 1k Ohms 1%     
+F1         WICKMANN/WK0011-ND        500mil       3200mil        500mil       3200mil    204.724mil       3200mil  T        180.00 110V @ 2 AMP Fast Blow
+D4         LITEON/LED/0603       5655mil       4670mil       5655mil       4670mil       5655mil   4636.535mil  T         90.00 red            
+D3         LITEON/LED/0603       4820mil       4655mil       4820mil       4655mil       4820mil   4621.535mil  T         90.00 red            
+D2         LITEON/LED/0603       3980mil       4770mil       3980mil       4770mil       3980mil   4803.465mil  T        270.00 red            
+D1         LITEON/LED/0603       3470mil   4776.181mil       3470mil   4776.181mil       3470mil   4809.646mil  T        270.00 red            
+CON8       BNC-RightAngle-PCB-50Ohm-Termination       4496mil        401mil       4510mil         -5mil       4296mil        301mil  T        180.00 5227161-1      
+CON1       BNC-RightAngle-PCB-50Ohm-Termination       5609mil       3506mil       6015mil       3520mil       5709mil       3306mil  T        270.00 5227161-1      
+CN1        MOLEX/54819-0579   5763.032mil   5673.311mil   5680.354mil   5736.303mil   5846.693mil   5867.209mil  B        270.00 Mini B Socket R/A USB Type Per Spec
+C92        SM/C_0603             5262mil       2790mil       5290mil       2790mil       5290mil       2790mil  B        180.00 1u Farads 10%  
+C90        SM/C_0603             4797mil       3020mil       4825mil       3020mil       4825mil       3020mil  B        180.00 47p Farads 1%  
+C78        SM/C_0603         5524.567mil   1788.823mil   5524.567mil   1816.823mil   5524.567mil   1816.823mil  T        270.00 1u Farads 10%  
+C77        SM/C_0603         5304.567mil   1788.823mil   5304.567mil   1816.823mil   5304.567mil   1816.823mil  T        270.00 1u Farads 10%  
+C72        SM/C_0603             4573mil       1150mil       4545mil       1150mil       4545mil       1150mil  T        360.00 1u Farads 10%  
+C71        SM/C_0603         5136.567mil   1756.823mil   5164.567mil   1756.823mil   5164.567mil   1756.823mil  T        180.00 1000p Farads 1%
+C67        Y2-Caps-Epocs-1uF-10%       1980mil        420mil       1980mil        420mil   1241.811mil        420mil  T        360.00 1uF Farads 10% 
+C63        SM/C_0603          3716.22mil       2638mil    3716.22mil       2610mil    3716.22mil       2610mil  T         90.00 1u Farads 10%  
+C62        SM/C_0603          3883.22mil       2740mil    3911.22mil       2740mil    3911.22mil       2740mil  T        180.00 1u Farads 10%  
+C57        SM/C_0603         3291.685mil   3643.662mil   3319.685mil   3643.662mil   3319.685mil   3643.662mil  T        180.00 1000p Farads 1%
+C56        SM/C_0603         3151.685mil   3643.662mil   3179.685mil   3643.662mil   3179.685mil   3643.662mil  T        180.00 1000p Farads 1%
+C51        SM/C_0603             4285mil       1038mil       4285mil       1010mil       4285mil       1010mil  T         90.00 1u Farads 10%  
+C26        CAP-CAN-SMD-POL-12.5mmDia       5760mil       5680mil       5760mil       5680mil       5760mil    5483.15mil  T         90.00 1000u Farads 20%
+C25        CAP-SMD-POL-5mmDia       5100mil       5485mil       5100mil       5485mil   5011.417mil       5485mil  T        360.00 10u Farads 20% 
+C24        CAP-SMD-POL-5mmDia       5795mil       5125mil       5795mil       5125mil       5795mil   5213.583mil  T        270.00 10u Farads 20% 
+C23        Y2-Caps-Epocs-1uF-10%       1985mil       2110mil       1985mil       2110mil   1246.811mil       2110mil  T        360.00 1uF Farads 10% 
+C22        Y2-Caps-Epocs-1uF-10%       1985mil       2950mil       1985mil       2950mil   1246.811mil       2950mil  T        360.00 1uF Farads 10% 
+C21        SM/C_0603         4028.866mil       1630mil   4000.866mil       1630mil   4000.866mil       1630mil  T          0.00 1000p Farads 1%
+C20        SM/C_0603         3888.866mil       1630mil   3860.866mil       1630mil   3860.866mil       1630mil  T        360.00 1000p Farads 1%
+C18        CAP-SMD-POL-5mmDia       5160mil       5825mil       5160mil       5825mil   5071.417mil       5825mil  T        360.00 10u Farads 20% 
+C17        SM/C_0603         3675.866mil       1632mil   3675.866mil       1660mil   3675.866mil       1660mil  T        270.00 1u Farads 10%  
+C16        SM/C_0603         3515.866mil       1632mil   3515.866mil       1660mil   3515.866mil       1660mil  T        270.00 1u Farads 10%  
+C15        SM/C_0603         3367.433mil       1635mil   3395.433mil       1635mil   3395.433mil       1635mil  T        180.00 1000p Farads 1%
+C14        SM/C_0603         3207.433mil       1635mil   3235.433mil       1635mil   3235.433mil       1635mil  T        180.00 1000p Farads 1%
+C13        CAP-SMD-POL-5mmDia       4920mil       5095mil       4920mil       5095mil       4920mil   5183.583mil  T        270.00 10u Farads 20% 
+C12        SM/C_0603         4007.866mil       1878mil   4007.866mil       1850mil   4007.866mil       1850mil  T         90.00 1000p Farads 1%
+C11        SM/C_0603         3915.866mil       1878mil   3915.866mil       1850mil   3915.866mil       1850mil  T         90.00 1000p Farads 1%
+C10        SM/C_0603         3240.433mil       1888mil   3240.433mil       1860mil   3240.433mil       1860mil  T         90.00 1000p Farads 1%
+C9         SM/C_0603         3340.433mil       1888mil   3340.433mil       1860mil   3340.433mil       1860mil  T         90.00 1000p Farads 1%
+C7         CAP-SMD-POL-5mmDia       4730mil       5820mil       4730mil       5820mil   4818.583mil       5820mil  T        180.00 10u Farads 20% 
+C6         CAP-SMD-POL-5mmDia       3620mil       5540mil       3620mil       5540mil       3620mil   5451.417mil  T         90.00 10u Farads 20% 
+C5         SM/C_0603             3725mil       3248mil       3725mil       3220mil       3725mil       3220mil  T         90.00 1u Farads 10%  
+C4         SM/C_0603             3857mil       3340mil       3885mil       3340mil       3885mil       3340mil  T        180.00 1u Farads 10%  
+C3         CAP-SMD-POL-5mmDia       3300mil       5840mil       3300mil       5840mil   3388.583mil       5840mil  T        180.00 10u Farads 20% 
+C2         CAP-CAN-SMD-POL-12.5mmDia       4080mil       5680mil       4080mil       5680mil    4276.85mil       5680mil  T        180.00 1000u Farads 20%
+C1         CAP-SMD-POL-5mmDia       4660mil       5520mil       4660mil       5520mil   4748.583mil       5520mil  T        180.00 10u Farads 20% 
+U2         TSOT-23-LTC6252-OpAmp       3865mil       3220mil       3865mil       3220mil   3816.772mil   3257.402mil  T          0.00 LTC6252        
+U1         MSOP-16Lead-LTC6254       3550mil       3860mil       3550mil       3860mil   3468.307mil   3928.898mil  T          0.00 LTC6254CMS#PBF-ND
+TVS3       D0-214AC          4814.685mil   3496.811mil       4820mil       3500mil   4899.685mil   3496.811mil  T        360.00 SMAJ12CA-TP    
+TVS4       D0-214AC          4814.685mil   3796.811mil       4820mil       3800mil   4899.685mil   3796.811mil  T        360.00 SMAJ12CA-TP    
+
